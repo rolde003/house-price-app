@@ -375,3 +375,4 @@ st.markdown("""
 <div style='text-align:center;color:#555;font-size:.8rem;margin-top:2rem'>
   🔮 Page Prédiction — Exercice 3
 </div>""", unsafe_allow_html=True)
+
